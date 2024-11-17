@@ -1,4 +1,5 @@
 --Part 1
+SELECT * FROM job
 
 --Part 2
 
